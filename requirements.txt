@@ -1,0 +1,9 @@
+numpy
+simple_geoip
+matplotlib
+cartopy
+scipy
+pillow
+wordcloud
+
+#Also needs python-basemap
